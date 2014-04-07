@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/wamp/www/tookAPI/index.php</file>
+            <file>file:/C:/wamp/www/tookAPI/bdd_handler/DbPositionHandler.php</file>
+            <file>file:/C:/wamp/www/tookAPI/.htaccess</file>
+            <file>file:/C:/wamp/www/tookAPI/routing/position.php</file>
+            <file>file:/C:/wamp/www/tookAPI/reverse-geocoding/OpenStreetMap.php</file>
+            <file>file:/C:/wamp/www/tookAPI/bdd_handler/DbTestHandler.php</file>
+            <file>file:/C:/wamp/www/tookAPI/routing/user.php</file>
+            <file>file:/C:/wamp/www/tookAPI/routing/test.php</file>
+            <file>file:/C:/wamp/www/tookAPI/console.php</file>
+            <file>file:/C:/wamp/www/tookAPI/composer.json</file>
+        </group>
+    </open-files>
+</project-private>

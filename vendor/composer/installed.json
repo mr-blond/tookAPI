@@ -1,0 +1,91 @@
+[
+    {
+        "name": "j7mbo/twitter-api-php",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/J7mbo/twitter-api-php.git",
+            "reference": "ab76f1c1e6bf83f0a257216cbaf9932b7cc19a3f"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/J7mbo/twitter-api-php/zipball/ab76f1c1e6bf83f0a257216cbaf9932b7cc19a3f",
+            "reference": "ab76f1c1e6bf83f0a257216cbaf9932b7cc19a3f",
+            "shasum": ""
+        },
+        "time": "2013-10-03 10:04:59",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "files": [
+                "TwitterAPIExchange.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "GNU Public License"
+        ],
+        "authors": [
+            {
+                "name": "James Mallison",
+                "homepage": "https://github.com/j7mbo/twitter-api-php"
+            }
+        ],
+        "description": "Simple PHP Wrapper for Twitter API v1.1 calls",
+        "homepage": "https://github.com/j7mbo/twitter-api-php",
+        "keywords": [
+            "api",
+            "php",
+            "twitter"
+        ]
+    },
+    {
+        "name": "slim/slim",
+        "version": "2.4.2",
+        "version_normalized": "2.4.2.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/codeguy/Slim.git",
+            "reference": "3a2ac723f17b5d81607287ff28575d38b9fbc70e"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/codeguy/Slim/zipball/3a2ac723f17b5d81607287ff28575d38b9fbc70e",
+            "reference": "3a2ac723f17b5d81607287ff28575d38b9fbc70e",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "suggest": {
+            "ext-mcrypt": "Required for HTTP cookie encryption"
+        },
+        "time": "2014-02-16 18:18:25",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "Slim": "."
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Josh Lockhart",
+                "email": "info@joshlockhart.com",
+                "homepage": "http://www.joshlockhart.com/"
+            }
+        ],
+        "description": "Slim Framework, a PHP micro framework",
+        "homepage": "http://github.com/codeguy/Slim",
+        "keywords": [
+            "microframework",
+            "rest",
+            "router"
+        ]
+    }
+]
